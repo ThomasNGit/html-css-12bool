@@ -1,0 +1,23 @@
+/* stile della pagina */
+.container{
+  width: 1078px;
+  margin: 0 auto;
+}
+/* stile colonne */
+[class*="col-"]{
+  height: 200px;
+  border: 1px solid black;
+  background-color: pink;
+}
+
+[class*="col-"] p{
+  text-align: center;
+  padding-top: 84px;
+}
+
+/* clearfix */
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
