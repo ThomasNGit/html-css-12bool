@@ -15,6 +15,15 @@
   padding-top: 84px;
 }
 
+/* stile delle colonne nested */
+.nested{
+  background-color: red;
+}
+/* stile colonne offset */
+[class*="col-offset-"]{
+  height: 200px;
+  background-color: blue;
+}
 /* clearfix */
 .row:after{
   content: "";

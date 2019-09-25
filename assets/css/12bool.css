@@ -60,50 +60,50 @@ Data creazione: 25/09/2019 */
 
 /* Creazione struttura offset */
 .col-offset-1{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 1);
     float:left;
 }
 .col-offset-2{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 2);
     float:left;
 }
 .col-offset-3{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 3);
     float:left;
 }
 .col-offset-4{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 4);
     float:left;
 }
 .col-offset-5{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 5);
     float:left;
 }
 .col-offset-6{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 6);
     float:left;
 }
 .col-offset-7{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 7);
     float:left;
 }
 .col-offset-8{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 8);
     float:left;
 }
 .col-offset-9{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 9);
     float:left;
 }
 .col-offset-10{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 10);
     float:left;
 }
 .col-offset-11{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 11);
     float:left;
 }
 .col-offset-12{
-    width:calc((100%/12)*1);
+    width:calc((100% / 12) * 12);
     float:left;
 }
